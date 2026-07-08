@@ -1,0 +1,169 @@
+---
+title: "Annihilation of Caste"
+subtitle: "SARA Book Club - Session 2"
+date: "8 July 2026"
+date-format: long
+format:
+  revealjs:
+    theme: [default, style.scss]
+    backgroundcolor: "#FAFAF7"
+    fontcolor: "#1A1A2E"
+mainfont: "Lato"
+logo: images/logo-sara.png
+slide-number: c/t
+---
+
+## SARA Book Club {background-color="black" .center-slide}
+
+
+::: {.columns}
+
+::: {.column}
+
+![](images/aoc-ambedkar.png){fig-align="center"}
+
+:::
+
+::: {.column}
+
+<br>
+<br>
+
+::: {layout-ncol=3 }
+
+![Expert: Dr. Vivek Kumar Singh](images/vivek-kumar.png)
+
+![Moderator: Dr. Cecilia Baldoni](images/cecilia.png)
+
+![Presenter: Dr. Ajay Kumar Koli](images/ajay.jpg)
+
+:::
+:::
+
+:::
+
+## {.center-slide}
+
+:::::: columns
+::: {.column width="35%"}
+![](images/savitrimai.png){fig-alt="Sara's headshot" fig-align="center" width=250px style="border-radius: 50%;"}
+
+#### Savitribai Phule (1831-1897)<br>🌺 🙏🏽🌼
+
+:::
+
+::: {.column width="30%"}
+
+![](images/logo-sara.png){width="2.0in" fig-align="center"}
+:::
+
+::: {.column width="35%"}
+![](images/ramai.png){fig-alt="Sara's headshot" fig-align="center" width=250px style="border-radius: 50%;"}
+
+#### Ramabai Ambedkar (1898-1935)<br>🌺 🙏🏽🌼
+:::
+::::::
+
+[**Savitribai Ramabai (SARA) Institute of Data Science, Sonipat**]{.r-fit-text .muted}
+
+---
+
+## About SARA {background-image="images/diver-she.png" background-size="25%" background-position="70% 70%"}
+
+> An Ambedkarite Non-profit Educational Institute
+
+- Provide low-cost data science education
+- Priority admission for marginalised communities & women
+- Prevent data injustice
+
+---
+
+## Data Schools {background-color="black"}
+
+::: {.panel-tabset}
+
+### Summer School
+
+::: {#fig-summer layout-ncol=2}
+
+![1st, 22-26, July 2024](images/summer-students1.jpeg){#fig-surus}
+
+![2nd, 25-29, July 2025](images/summer-students2.png){#fig-hanno}
+
+Participants of the SARA Summer Schools "R for Researchers"
+:::
+
+### Winter School 
+
+::: {#fig-winter layout-ncol=2}
+
+![1st, 16-20, Dec 2024](images/winter-students1.jpeg){#fig-surus}
+
+![2nd, 23-27,  Jan 2026](images/winter-students2.jpeg){#fig-hanno}
+
+Participants of the SARA Winter Schools "Statistics using R"
+:::
+
+### Bootcamp
+
+::: {#fig-bootcamp layout-ncol=2}
+
+![1st, 3-7, March 2025](images/bootcamp-students1.jpg){#fig-surus}
+
+![2nd, 20-22, March 2026](images/bootcamp-students2.png){#fig-hanno}
+
+Participants of the SARA Coding Bootcamps "Publish using Quarto"
+:::
+
+:::
+
+## 3rd SARA Summer School {.center-slide background-color="black"}
+
+![](images/speakers-3sss.png){fig-align="center"}
+
+## Bridge Course Level 1 {background-image="images/sea-tyre.png" background-size="15%" background-position="30% 90%"} 
+
+> Around three months offline course covering essential:
+
+
+::: {.columns}
+
+::: {.column}
+
+@. Social Science
+@. Science
+@. Geography
+@. History
+
+:::
+
+::: {.column}
+
+@. Environmental Science
+@. Mathematics
+@. General Knowledge
+@. Civics, polity & political economy
+
+:::
+
+:::
+
+## Around 40 Books {.center-slide background-color="black"}
+
+![](images/book-donation.png){fig-align="center"}
+
+::: footer
+More information <https://sara-edu.netlify.app/book-club/books-donation/sara_book_donations>
+:::
+
+## SARA WhatsApp Channel {.center-slide background-color="black"}
+
+![](images/channel-sara.jpeg){fig-align="center"}
+
+
+
+
+
+
+
+
