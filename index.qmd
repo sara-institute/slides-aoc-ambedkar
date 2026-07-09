@@ -11,16 +11,52 @@ format:
 mainfont: "Lato"
 logo: images/logo-sara.png
 slide-number: c/t
+incremental: true
+transition: slide
+scrollable: true
 ---
 
-## SARA Book Club {background-color="black" .center-slide}
+## Disclaimer {.scrollable}
+
+::: {.fragment .fade-in-then-semi-out }
+
+This presentation has been prepared for the **SARA Book Club - Session 2** as part of an internal academic discussion on _Annihilation of Caste_ by Dr. B.R. Ambedkar.
+
+:::
+
+::: {.fragment .fade-in-then-semi-out }
+
+Caste is a sensitive and deeply personal subject. All views expressed during this session are those of individual participants and do not represent the official position of **SARA** or any of its affiliated persons or programmes. SARA bears no responsibility for opinions shared in the course of this discussion.
+
+:::
+
+
+::: {.fragment .fade-in-then-semi-out }
+
+All participants are requested to engage with **kindness, respect, and restraint.** Language that is provocative, discriminatory, or hurtful toward any community, caste, or individual has no place in this space and will not be encouraged.
+
+:::
+
+::: {.fragment .fade-in-then-semi-out }
+
+The primary purpose of this session is **academic and pedagogical** - to identify the key arguments, ideas, and lessons from Dr. Ambedkar's work that can be meaningfully and sensitively introduced to students in the **SARA Bridge Course Level 1**.
+
+:::
+
+::: {.fragment .fade-in-then-semi-out }
+
+We enter this discussion in the spirit of learning, not of debate or confrontation.
+
+Thank you!
+
+:::
+
+# {background-image="images/aoc-ambedkar.png" background-size="contain" background-position="left" background-color="black" .center-slide}
 
 
 ::: {.columns}
 
 ::: {.column}
-
-![](images/aoc-ambedkar.png){fig-align="center"}
 
 :::
 
@@ -31,11 +67,11 @@ slide-number: c/t
 
 ::: {layout-ncol=3 }
 
-![Expert: Dr. Vivek Kumar Singh](images/vivek-kumar.png)
+![[Expert:]{.highlight} Dr. Vivek Kumar Singh](images/vivek-kumar.png)
 
-![Moderator: Dr. Cecilia Baldoni](images/cecilia.png)
+![[Moderator:]{.highlight} Dr. Cecilia Baldoni](images/cecilia.png)
 
-![Presenter: Dr. Ajay Kumar Koli](images/ajay.jpg)
+![[Presenter:]{.highlight} Dr. Ajay Kumar Koli](images/ajay.jpg)
 
 :::
 :::
@@ -76,9 +112,13 @@ slide-number: c/t
 - Priority admission for marginalised communities & women
 - Prevent data injustice
 
+::: footer
+SARA website: <https://sara-edu.netlify.app/>
+:::
+
 ---
 
-## Data Schools {background-color="black"}
+## SARA Data Schools {background-color="black"}
 
 ::: {.panel-tabset}
 
@@ -119,12 +159,21 @@ Participants of the SARA Coding Bootcamps "Publish using Quarto"
 
 ## 3rd SARA Summer School {.center-slide background-color="black"}
 
-![](images/speakers-3sss.png){fig-align="center"}
+::: {layout="[75, 25]"}
 
-## Bridge Course Level 1 {background-image="images/sea-tyre.png" background-size="15%" background-position="30% 90%"} 
+![](images/speakers-3sss.png)
 
-> Around three months offline course covering essential:
+![Donate to SARA](images/upi-sara.png)
 
+:::
+
+::: footer
+More info: <https://sara-edu.netlify.app/summer/2026-r4b/>
+:::
+
+## Bridge Course Level 1 {background-image="images/sea-tyre.png" background-size="15%" background-position="45% 95%"} 
+
+> Offline three months course covering essential education (6 to 8 class):
 
 ::: {.columns}
 
@@ -134,6 +183,7 @@ Participants of the SARA Coding Bootcamps "Publish using Quarto"
 @. Science
 @. Geography
 @. History
+@. English Language
 
 :::
 
@@ -143,6 +193,7 @@ Participants of the SARA Coding Bootcamps "Publish using Quarto"
 @. Mathematics
 @. General Knowledge
 @. Civics, polity & political economy
+@. Computer & AI
 
 :::
 
@@ -156,9 +207,122 @@ Participants of the SARA Coding Bootcamps "Publish using Quarto"
 More information <https://sara-edu.netlify.app/book-club/books-donation/sara_book_donations>
 :::
 
-## SARA WhatsApp Channel {.center-slide background-color="black"}
+## Receive SARA Updates {.center-slide background-color="black"}
 
 ![](images/channel-sara.jpeg){fig-align="center"}
+
+# Annihilation<br>of Caste {background-image="images/ambedkar.jpg" background-size="contain" background-position="right"}
+
+An Undelivered Speech, 1936
+
+## Preface to the Second Edition, 1937
+
+> Besides Mr. Gandhi, many others have adversely criticised my views as expressed in my speech.
+But I have felt that in taking notice of such adverse comments, I should limit myself to Mr. Gandhi. This I have done not because what he has said is so weighty as to deserve a reply, but because to many a Hindu he is an oracle, so great that when he opens his lips it is expected that the argument close and no dog must bark.
+
+. . .
+
+> I shall be satisfied if I make the Hindus realise that they are the sick men of India, and that their sickness is causing danger to the health and happiness of other Indians.
+
+## 1 $\rightarrow$ 1.1
+
+> I have criticised the Hindus. I have questioned the authority of the Mahatma whom they revere. They hate me. To them I am a snake in their garden.
+
+## Caste Hierarchy {background-image="images/varna-system.png" background-size="contain" background-position="right"}
+
+
+::: {.columns}
+
+::: {.column}
+
+- Antyaja = Avarna = last born = an untouchable = Dalit
+
+- Savarna: "those with varna, a caste Hindu; a term used for those within the fourfold varna system. A Shudra is also a savarna." (p. 209, note 3, 4 & 5)
+
+- Dwija: "twice born" ... "the first three groups are considered dwija"
+
+:::
+
+::: {.column}
+
+:::
+
+:::
+
+
+::: footer
+Image source: [britannica.com](https://www.britannica.com/topic/varna-Hinduism)
+:::
+
+## Social Reform
+
+- Social reform vs. Political reform
+
+- [Social efficiency:]{.highlight} "for [John] Dewey and Ambedkar social efficiency lies in the individual being able to choose and develop his/her competencies to the fullest and thus mindfully contribute to the functioning of society." (p. 210, note 6)
+
+# Why Social Reform
+
+## Dalits under Peshwas
+
+> [Untouchable was not allowed to use the public streets if a Hindu was coming along, lest he should pollute the Hindu by his shadow.]{.fragment .fade-in-then-semi-out} [The Untouchable was required to have black thread either on his wrist or around his neck, as a sign or a mark to prevent the Hindu from getting themselves polluted by his touch by mistake.]{.fragment .fade-in-then-semi-out} [In Poona, the capital of the Peshwa, the Untouchable was required to carry, strung from his waist, a broom to sweep away from behind himself the dust he trod on, lest a Hindu walking on the same dust should be polluted.]{.fragment .fade-in-then-semi-out} [In Poona, the Untouchable was required to carry an earthen pot hung around his neck wherever he went - for holding his spit, lest spit falling on the earth should polluted a Hindu who might unknowingly happen to tread on it.]{.fragment .fade-in-then-semi-out} (2.8)
+
+## Social reform vs Political reform
+
+> [Are you fit for political power even though you do not allow a large class of your own countrymen like the Untouchables to use public schools?]{.fragment .fade-in-then-semi-out} [Are you fit for political power even though you do not allow them the use of public wells?]{.fragment .fade-in-then-semi-out} [Are you fit for political power even though you do not allow them the use of public streets?]{.fragment .fade-in-then-semi-out} [Are you fit for political power even though you do not allow them to wear what apparel or ornaments they like?]{.fragment .fade-in-then-semi-out} [Are you fit for political power even though  you do not allow them to eat any food they like?]{.fragment .fade-in-then-semi-out} (2.13)
+
+## Social Reform (2.14 & 2.15)
+
+::: {.columns}
+
+::: {.column}
+
+### Hindu Family
+
+- "a relation to widow remarriage, child marriage, etc."
+
+- "reform of the high-caste Hindu family"
+
+- "evils which prevailed among them and which were personally felt by them."
+
+:::
+
+::: {.column}
+
+### Hindu Soceity
+
+- "abolition of the caste system"
+
+:::
+
+:::
+
+## Social reform vs Political reform
+
+> That political reform cannot with impunity take precedence over social reform in the sense of the reconstruction of society (2.16)
+
+## The Communal Award 
+
+- 16 August 1932: "Granted separate electorates to minorities" including Depressed Classes/Untouchables
+
+- "The Congress and Gandhi opposed this, and Gandhi went on indefinite hunger strike in Poona jail." 
+
+- 24 September 1932: [Poona Pact]{.highlight} - "the Untouchables were allotted reserved constituencies but not separate electorates" (page 220 foot-note 22)
+
+## Irish Home Rule
+
+> there was a social problem between Catholics [Southern Ireland] and Protestants [Ulster], which is essentially a problem of caste. (para. 2.19)
+
+---
+
+## Republican Constituion of Rome
+
+- Communal award = Republican Constituion of Rome
+
+> the constitution of republican Rome has to take account of the social division between the patricians and the plebeians, who formed two distinct castes (para. 2.20)
+
+
+
+
 
 
 
