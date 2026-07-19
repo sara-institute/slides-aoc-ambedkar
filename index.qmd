@@ -14,6 +14,9 @@ slide-number: c/t
 incremental: true
 transition: slide
 scrollable: true
+#controls: false
+#menu: false
+#progress: false
 ---
 
 ## Disclaimer {.scrollable}
@@ -231,7 +234,7 @@ More information <https://sara-edu.netlify.app/book-club/books-donation/sara_boo
 
 # Annihilation of Caste
 
-An Undelivered Speech, 1936
+An Undelivered Speech, 1936 | Part 1
 
 ## Babasaheb:
 
@@ -285,6 +288,11 @@ Image source: [britannica.com](https://www.britannica.com/topic/varna-Hinduism)
 
 > [Yours is a cause of social reform. That cause has always made an appeal to me (para 1.4)]{.fragment .fade-in-then-semi-out}
 
+# Part 2
+Social Reform First
+
+## Babasaheb:
+
 > [Social reform in India has few friends and many critics. (para 2.1)]{.fragment .fade-in-then-semi-out}
 
 ## Babasaheb:
@@ -304,8 +312,6 @@ Image source: [britannica.com](https://www.britannica.com/topic/varna-Hinduism)
 > [The point at issue was whether social reform should precede political reform. (para 2.3)]{.fragment .fade-in-then-semi-out}
 
 > [in the course of time the party in favour of political reform won, and the Social Conference vanished and was forgotten (para 2.5)]{.fragment .fade-in-then-semi-out}
-
-# Social Reform First
 
 ## Babasaheb:
 
@@ -329,7 +335,7 @@ Social Reform in Hindu family
 
 ## Babasaheb:
 
-Social reform in Hindu Soceity
+Social reform in Hindu Society
 
 > [They did not stand up for the reform of Hindu society. The battle that was fought centered round the question of the reform of the family.]{.fragment .fade-in-then-semi-out} [It did not relate to social reform in the sense of the break-up of the caste system.]{.fragment .fade-in-then-semi-out} [It was never put in issue by the reformers. That is the reason why the "social reform party" lost. (para 2.15)]{.fragment .fade-in-then-semi-out} 
 
@@ -435,13 +441,205 @@ Image source: By Lucas Cranach the Elder - GalleriX, Public Domain, https://comm
 
 ## Babasaheb:
 
-[Examples of Social & Religious Reform before Political Reform]{.r-fit-text}
+[Examples from India of Social & Religious Reform before Political Reform]{.r-fit-text}
 
-> [The political revolution led by Chandragupta wa preceded by the religious and social revolution of Buddha. (para 2.22)]{.fragment .fade-in-then-semi-out}
+> [The political revolution led by Chandragupta was preceded by the religious and social revolution of Buddha. (para 2.22)]{.fragment .fade-in-then-semi-out}
 
 > [The political revolution led by Shivaji was preceded by the religious and social reform brough about by the saints of Maharashtra.]{.fragment .fade-in-then-semi-out}
 
 > [The political revolution of the Sikhs was preceded by the religious and social revolution led by Guru Nanak. (para 2.22)]{.fragment .fade-in-then-semi-out}
+
+# Part 3
+Issues with Socialism
+
+## Babasaheb:
+
+> [They^[Socialists of Congress Socialist Party] propound that man is an economic creature, that his activities and aspirations are bound by economic facts, that property is the only source of power.]{.fragment .fade-in-then-semi-out} [They therefore preach that political and social reforms are but gigantic illusions, and that economic reform by equalisation of property must have precedence over every other kind of reform. (para 3.1)]{.fragment .fade-in-then-semi-out}
+
+## Babasaheb:
+
+> [religion is the source of power is illustrated by the history of India,]{.fragment .fade-in-then-semi-out} [where the priest holds sway over the common man often greater than that of the magistrate,]{.fragment .fade-in-then-semi-out} [and where everything, even such things as strikes and elections, so easily take a religious turn and can so easily be given a religious twist. (para 3.2)]{.fragment .fade-in-then-semi-out}
+
+> [Take the case of the plebeians of Rome as a further illustration of the power of religion over man. (para 3.3)]{.fragment .fade-in-then-semi-out}
+
+## Babasaheb:
+
+> [The question is, why did they^[plebeians] fail in getting a strong plebeian to officiate as their consul? (para 3.4)]{.fragment .fade-in-then-semi-out}
+
+> [They agreed to elect another, less suitable to themselves but more suitable to the goddess - which in fact meant more amenable to the particians.]{.fragment .fade-in-then-semi-out} [Rather than give up religion, the plebeians gave up the material gain for which they had fought so hard. (para 3.6)]{.fragment .fade-in-then-semi-out}
+
+## Babasaheb:
+
+> [Men will not join in a revolution for the equalisation of property unless they know that after the revolution is achieved they will be treated equally, and that there will be no discrimination of caste and creed. (para 3.10)]{.fragment .fade-in-then-semi-out}
+
+> [He^[socialist] will be compelled to take account of caste after the revolution. if he does not take account of it before the revolution.]{.fragment .fade-in-then-semi-out} [This is only another way of saying that, turn in any direction you like, caste is the monster that crosses your path. You cannot have political reform, you cannot have economic reform, unless you kill this monster. (para 3.13)]{.fragment .fade-in-then-semi-out} 
+
+# Part 4
+
+## Babasaheb:
+
+> [It is pity that caste even today has its defenders. ...]{.fragment .fade-in-then-semi-out} [It is defended on the ground that the caste system is but another name for division of labour. ...]{.fragment .fade-in-then-semi-out} [the caste system is not merely a division of labour. *It is also division of labourers.* ...]{.fragment .fade-in-then-semi-out} [In no other country is the division of labour accompained by this gradation of labourers. (para 4.1)]{.fragment .fade-in-then-semi-out}
+
+## Babasaheb:
+
+> [But in no civilised society is division of labour accompanied by this unnatural division of labourers into watertight compartments. (para 4.1)]{.fragment .fade-in-then-semi-out}
+
+> [This division of labour is not spontaneous; it is not based on natural aptitudes. ...]{.fragment .fade-in-then-semi-out} [but on that of the social status of the parents. (para. 4.2)]{.fragment .fade-in-then-semi-out}
+
+## Babasaheb:
+
+> [If a Hindu is seen to starve rather than take to new occupations not assigned to his caste, the reason is to be found in the caste system. (para 4.3)]{.fragment .fade-in-then-semi-out}
+
+> [The division of labour brought about by the caste system is not a division based on choice. Individual sentiment, individual preference, has no place in it. It is based on the dogma of predestination. (para 4.4)]{.fragment .fade-in-then-semi-out}
+
+# Part 5
+Pure Blood & Race
+
+## Babasaheb:
+
+> [to treat different castes as though they were so many different races, is a gross perversion of facts. (para 5.2)]{.fragment .fade-in-then-semi-out}
+
+> [The caste system is a social division of people of the same race. (para 5.3)]{.fragment .fade-in-then-semi-out}
+
+## Babasaheb:
+
+> [A tree should be judged by the fruits it yields. If caste is eugenic, what sort of a race of men should it have produced? Physically speaking the Hindus are C3 people.]{.fragment .fade-in-then-semi-out} [They are a race of pygmies and dwarfs, stunted in stature and wanting in stamina. It is a nation nine-tenths of which is declared to be unfit for military service.]{.fragment .fade-in-then-semi-out} [This shows that the caste system does not embody the eugenics of modern scientists. It is a social system which embodies the arrogance and selfishness of a perverse section of the Hindus who were superior enough in social status to set it in fashion, and who had the authority to force it on their inferiors. (para 5.8)]{.fragment .fade-in-then-semi-out}
+
+# Part 6
+Hindu Society?
+
+## Babasaheb:
+
+> [Hindu society is a myth. The name Hindu is itself a foreign name. (para 6.2)]{.fragment .fade-in-then-semi-out}
+
+> [There is an utter lack among the Hindus of what the sociologists call 'consciousness of kind'. There is no Hindu consciousness of kind. In every Hindu the consciousness that exists is the consciousness of his caste. That is the reason why the Hindu cannot be said to form a society or a nation. (para 6.3)]{.fragment .fade-in-then-semi-out}
+
+## Babasaheb:
+
+> [similarity in certain things is not enough to constitute a society. (para 6.5)]{.fragment .fade-in-then-semi-out}
+
+> [Men constitute a society because they have things which they posses in common. ... And the only way by which men can come to posses things in common with one another is by being in communication with one another. (para 6.6)]{.fragment .fade-in-then-semi-out}
+
+> [The caste system prevents common activity; and by preventing common activity, it has prevented the Hindus from becoming a society with a unified life and a consciousness of its own being. (para 6.7)]{.fragment .fade-in-then-semi-out}
+
+# Part 7
+Anti-social spirit
+
+## Babasaheb:
+
+> [anti-social spirit is the worst feature of their own caste system (para 7.1)]{.fragment .fade-in-then-semi-out}
+
+> [An anti-social spirit is found wherever one group has 'interests of its own' which shut it out from full interaction with other groups, so that its prevailing purpose is protection of what it has got. (para 7.2)]{.fragment .fade-in-then-semi-out}
+
+> [The Hindus, therefore, are not merely an assortment of castes, but are so many warring groups, each living for itself and for its selfish ideal. (para 7.3)]{.fragment .fade-in-then-semi-out}
+
+## Babasaheb:
+
+> [the present-day non-Brahmin cannot forgive the present-day Brahmins for the insult their ancestors gave to Shivaji. (para 7.4)]{.fragment .fade-in-then-semi-out}
+
+> [The existence of caste and caste consciousness has served to keep the memory of past feuds between castes green, and has prevented solidarity. (para 7.4)]{.fragment .fade-in-then-semi-out}
+
+# Part 8
+Tribes
+
+## Babasaheb:
+
+> [the fact still reamins that these aborigines have remained in their primitive uncivilised state in a land which boasts of a civilisation thousands of years old. (para 8.1)]{.fragment .fade-in-then-semi-out}
+
+> [Civilising the aborigines means adopting them as your own, living in their midst, and cultivitating fellow-feeling-in short, loving them.]{.fragment .fade-in-then-semi-out} [How is it possilbe for a Hindu to do this? His whole life is one anxious effort to preserve his caste. Caste is his precious possession which he must save at any cost. He cannot consent to lose it by establishing contact with the aborigines, the remnants of the hateful *anarya* of the Vedic days.]{.fragment .fade-in-then-semi-out}
+
+# Part 9
+Mean Hindus
+
+## Babasaheb:
+
+> [higher-caste Hindus have deliberately prevented the lower castes who are within the pale of Hinduism from rising to the cultural level of the higher castes. (para 9.1)]{.fragment .fade-in-then-semi-out}
+
+[- Sonars imitating Brahmins]{.fragment .fade-in-then-semi-out}
+
+[- Widow remarriage in Pathare Prabhus]{.fragment .fade-in-then-semi-out}
+
+> [I have no hesitation in saying that if the Mahomedan has been cruel, the Hindus has been mean; and meaness is worse than cruelty. (para 9.4)]{.fragment .fade-in-then-semi-out}
+
+# Part 10
+Conversion
+
+## Babasaheb:
+
+> [The real question is, why did the Hindu religion cease to be a missionary religion? (para 10.1)]{.fragment .fade-in-then-semi-out}
+
+> [the Hindu religion ceased to be a missionary religion when the caste system grew up among the Hindus. Caste is inconsistent with conversion. (para 10.2)]{.fragment .fade-in-then-semi-out}
+
+> [Hindu society being a collection of castes, and each caste being a closed corporation, there is no place for a convert. (para 10.3)]{.fragment .fade-in-then-semi-out}
+
+# Part 11
+Associated mode of living
+
+## Babasaheb:
+
+> [The Hindu can derive no such strength. He cannot feel assured that his fellows will come to his help. Being one and fated to be alone, he remains powerless, develops timidity and cowardice, and in a fight surrenders or runs away. (para 11.2)]{.fragment .fade-in-then-semi-out}
+
+> [Among Skikhs and Muslims there is a social cement which makes them *bhais*. Among Hindus there is no such cement, and one Hindu does not regard another Hindu as his bhai. (para 11.3)]{.fragment .fade-in-then-semi-out}
+
+> [Indifferentism is the worst kind of disease that can infect a people. Why is the Hindu so indifferent? In my opinion this indifferentism is the result of the caste system, which has made sangthan and cooperation even for a good cause impossible. (11.4)]{.fragment .fade-in-then-semi-out}
+
+# Part 12
+Excommunication
+
+## Babasaheb:
+
+> [The assertion by the individual of his own opinions and beliefs, his own independence and interest - over and against group standards, group authority, and group interests - is the beginning of all reform. (para 12.1)]{.fragment .fade-in-then-semi-out}
+
+> [Now a caste has an unquestioned right to excommunicate any man who is guilty of breaking the rules of the caste; (para 12.2)]{.fragment .fade-in-then-semi-out}
+
+> [Caste in the hands of the orthodox has been a powerful weapon for persecuting the reformers and for killing all reform. (para 12.4)]{.fragment .fade-in-then-semi-out} 
+
+# Part 13
+Hindu's Treason
+
+## Babasaheb:
+
+> [A Hindu's public is his caste. His responsibility is only his caste. His loyalty is restricted only to his caste. ...]{.fragment .fade-in-then-semi-out} [There is no sympathy for the deserving. There is no appreciation of the meritorious. There is no charity to the needy. (para 13.1)]{.fragment .fade-in-then-semi-out}
+
+> [Have not Hindus committed treason against their country in the interests of their castes? (para 13.2)]{.fragment .fade-in-then-semi-out}
+
+# Part 14
+Ideal Society
+
+## Babasaheb:
+
+> [If you ask me, my ideal would be a society based on liberty, equality, and fraternity. And why not? (para 14.1)]{.fragment .fade-in-then-semi-out}
+
+## Babasaheb:
+
+> [there must be social endosmosis. This is fraternity, which is only another name for democracy. ...]{.fragment .fade-in-then-semi-out} [Democracy is not merely a form of government. It is primarily a mode of associated living of conjoint communicated experience. It is essentially an attitude of respect and reverence towards fellow men. (para 14.2)]{.fragment .fade-in-then-semi-out}
+
+## Babasaheb:
+
+> [liberty to choose one's profession (para 14.3)]{.fragment .fade-in-then-semi-out}
+
+> [But to object to this kind of liberty is to perpetuate slavery. ... It^[slavery] means a state of society in which some men are forced to accept from other the purposes which control their conduct. (para 14.4)]{.fragment .fade-in-then-semi-out}
+
+## Babasaheb:
+
+> [A man's power is dependent upon (1) physical heredity; (2) social inheritance ... (3) on his own efforts. (para 14.6)]{.fragment .fade-in-then-semi-out} 
+
+> [It is obvious that those individuals also in whose favour there is birth, education, family name, business connections, and inherited wealth, would be selected in the race.]{.fragment .fade-in-then-semi-out} [But selection under such circumstances would not be a selection of the able. It would be the selection of the privileged. (para 14.6)]{.fragment .fade-in-then-semi-out}
+
+# Part 15
+*Chaturvarnya*
+
+## Babashaeb:
+
+> [the protagonists^[Arya Samajists] of chaturvarnya take great care to point out that their chaturvarnya is based not on birth but on *guna* (worth). (15.1)]{.fragment .fade-in-then-semi-out}
+
+> [I do not understand why the Arya Samajists insist upon labelling men as Brahmin, Kshatriya, Vaishya and Shudra. (para 15.2)]{.fragment .fade-in-then-semi-out}
+
+## Babasaheb:
+
+> [names which are associated with a definite and fixed notion in the mind of every Hindu. The notion is that of a hierarchy based on birth. (para 15.3)]{.fragment .fade-in-then-semi-out}
+
+> [So long as these names continue, Hindus will continue to think of the Brahmin, Kshatriya, Vaishya and Shudra as  hierarchical divisions of high and low; based on birth, and to act accordingly. (para 15.4)]{.fragment .fade-in-then-semi-out}
 
 ## Book Reference
 
