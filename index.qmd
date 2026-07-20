@@ -1,7 +1,7 @@
 ---
 title: "Annihilation of Caste"
 subtitle: "SARA Book Club - Session 2"
-date: "8 July 2026"
+date: "20 July 2026"
 date-format: long
 format:
   revealjs:
@@ -54,7 +54,7 @@ Thank you!
 
 :::
 
-# {background-image="images/aoc-ambedkar.png" background-size="contain" background-position="left" background-color="black" .center-slide}
+# {background-image="images/2026-07-19.png" background-size="contain" background-position="left" background-color="black" .center-slide}
 
 
 ::: {.columns}
@@ -68,11 +68,11 @@ Thank you!
 <br>
 <br>
 
-::: {layout-ncol=3 }
+::: {layout-nrow=1}
 
 ![[Expert:]{.highlight} Dr. Vivek Kumar Singh](images/vivek-kumar.png)
 
-![[Moderator:]{.highlight} Dr. Cecilia Baldoni](images/cecilia.png)
+<!-- ![[Moderator:]{.highlight} Dr. Cecilia Baldoni](images/cecilia.png) -->
 
 ![[Presenter:]{.highlight} Dr. Ajay Kumar Koli](images/ajay.jpg)
 
@@ -103,11 +103,9 @@ Thank you!
 :::
 ::::::
 
-[**Savitribai Ramabai (SARA) Institute of Data Science, Sonipat**]{.r-fit-text .muted}
+**Savitribai Ramabai (SARA) Institute of Data Science**
 
----
-
-## About SARA {background-image="images/diver-she.png" background-size="25%" background-position="70% 70%"}
+<!-- ## About SARA {background-image="images/diver-she.png" background-size="25%" background-position="70% 70%"}
 
 > An Ambedkarite Non-profit Educational Institute
 
@@ -174,13 +172,13 @@ Participants of the SARA Coding Bootcamps "Publish using Quarto"
 More info: <https://sara-edu.netlify.app/summer/2026-r4b/>
 :::
 
-## Bridge Course Level 1 {background-image="images/sea-tyre.png" background-size="15%" background-position="45% 95%"} 
+## Bridge Course Level 1 {background-image="images/sea-tyre.png" background-size="15%" background-position="45% 95%" visibility="hidden"} 
 
 > Offline three months course covering essential education (6 to 8 class):
 
-::: {.columns}
+::: {.columns .nonincremental}
 
-::: {.column}
+::: {.column .nonincremental}
 
 @. Social Science
 @. Science
@@ -200,7 +198,7 @@ More info: <https://sara-edu.netlify.app/summer/2026-r4b/>
 
 :::
 
-:::
+::: -->
 
 ## SARA Book Club {.center-slide background-color="black"}
 
@@ -475,6 +473,7 @@ Issues with Socialism
 > [He^[socialist] will be compelled to take account of caste after the revolution. if he does not take account of it before the revolution.]{.fragment .fade-in-then-semi-out} [This is only another way of saying that, turn in any direction you like, caste is the monster that crosses your path. You cannot have political reform, you cannot have economic reform, unless you kill this monster. (para 3.13)]{.fragment .fade-in-then-semi-out} 
 
 # Part 4
+Divsion of Labourers
 
 ## Babasaheb:
 
